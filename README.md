@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 Clone this repository:
 ```
-git clone https://github.com/yuanmengqi/AdvWeb.git
+git clone https://github.com/AI-secure/AdvWeb.git
 ```
 
 Set up OpenAI API key and other keys to the environment:  
