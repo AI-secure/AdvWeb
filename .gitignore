@@ -1,0 +1,9 @@
+*.DS_Store
+*./vscode
+.idea
+.vscode
+data/Multimodal-Mind2Web/*
+data/seeact_source_data/test_website_outputs_top50.json
+data/seeact_source_data/test_domain_outputs_top50.json
+data/seeact_source_data/test_task_outputs_top50.json
+data/task_demo_-1_aug/together/new_models/*
