@@ -33,7 +33,7 @@ We conduct experiments on the [Mind2Web](https://osu-nlp-group.github.io/Mind2We
 
 Download the source data [Multimodal-Mind2Web](https://huggingface.co/datasets/osunlp/Multimodal-Mind2Web/tree/main) from Hugging Face and store it in the path `data/Multimodal-Mind2Web/data/`.
 
-Download the [Seeact Source Data](https://buckeyemailosu-my.sharepoint.com/personal/zheng_2372_buckeyemail_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzheng%5F2372%5Fbuckeyemail%5Fosu%5Fedu%2FDocuments%2Fseeact%5Fsource%5Fdata&ga=1) and store it in the path `data/seeact_source_data/`.
+Download the [Seeact Source Data](https://buckeyemailosu-my.sharepoint.com/:f:/g/personal/zheng_2372_buckeyemail_osu_edu/Ei95kzWnWlVAn4DR5I3zDDEBUZtC-9vIf0VBuFMOzZNn2w?e=OcH9Om) and store it in the path `data/seeact_source_data/`.
 
 ## Run Demo
 ### Data Generation
